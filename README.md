@@ -1,2 +1,2 @@
-# maricela-website
+# maricela-LearnCS8-Resume
 Resume 
